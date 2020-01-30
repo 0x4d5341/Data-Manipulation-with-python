@@ -1,0 +1,35 @@
+{
+    "employees": {
+        "data": [
+            {
+                "age": 33,
+                "doj": "09/06/2019",
+                "id": 1,
+                "manager_id": 33,
+                "name": "Em1",
+                "salary": 40000,
+                "slab": "A"
+            },
+            {
+                "age": 30,
+                "doj": "08/06/2019",
+                "id": 2,
+                "manager_id": 33,
+                "name": "Em2",
+                "salary": 30000,
+                "slab": "A"
+            },
+            {
+                "age": 27,
+                "doj": "07/06/2019",
+                "id": 3,
+                "manager_id": 33,
+                "name": "Em3",
+                "salary": 25000,
+                "slab": "B"
+            }
+        ],
+        "department": "IT",
+        "location": "Kathmandu"
+    }
+}
